@@ -1,0 +1,8 @@
+{
+    "name": "achougule/resident-utility",
+    "description": "A simple Resident Utility Composer testing",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {}
+}
